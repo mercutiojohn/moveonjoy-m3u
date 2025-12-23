@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="plex.tv.CBS.News.plex">
     <display-name lang="en">CBS News</display-name>
-    <icon src="https://images.pluto.tv/series/6659c9eaf8681400135d2487/poster.jpg?fm=jpg" />
-    <icon src="https://images.pluto.tv/series/6659c9eaf8681400135d2487/poster.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/series/678dc7d22175280013e876e9/poster_1766066416949.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/series/678dc7d22175280013e876e9/poster_1766066416949.jpg?fm=jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="plex.tv.FOX.SOUL.plex">
@@ -13,318 +13,10 @@
   </channel>
   <channel id="plex.tv.Stadium.plex">
     <display-name lang="en">Stadium</display-name>
-    <icon src="http://www.tmsimg.com/assets/p27366561_b_v13_aa.jpg" />
-    <icon src="http://www.tmsimg.com/assets/p27366561_b_v13_aa.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/74840ea9-0c5c-4135-b298-494a67832975/stadium_vertical_-_Janet_Feng.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/74840ea9-0c5c-4135-b298-494a67832975/stadium_vertical_-_Janet_Feng.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">60 Minutes</title>
-    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
-    <date>1968</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222010000 +0000" stop="20251222020000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">60 Minutes</title>
-    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
-    <date>1968</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222020000 +0000" stop="20251222030000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">60 Minutes</title>
-    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
-    <date>1968</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS Weekend News</title>
-    <desc lang="en">Journalist Adriana Diaz anchors the Saturday edition of the CBS news program from Chicago, while Jericka Duncan takes the helm of the Sunday broadcast from New York. The two are the latest to fill the roll of weekend anchor, which was most recently represented by Reena Ninan and Eliane Quijano. The program offers the latest headlines, original reporting and in-depth pieces that add context and perspective to the world's events.</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p12867762_i_h8_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS Weekend News</title>
-    <desc lang="en">Journalist Adriana Diaz anchors the Saturday edition of the CBS news program from Chicago, while Jericka Duncan takes the helm of the Sunday broadcast from New York. The two are the latest to fill the roll of weekend anchor, which was most recently represented by Reena Ninan and Eliane Quijano. The program offers the latest headlines, original reporting and in-depth pieces that add context and perspective to the world's events.</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p12867762_i_h8_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222040000 +0000" stop="20251222050000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">60 Minutes</title>
-    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
-    <date>1968</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222050000 +0000" stop="20251222060000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">Face the Nation</title>
-    <desc lang="en">"Face the Nation," which is one of the longest-running news programs on the air, offers insight and analysis on the top issues of the day. Moderator Margaret Brennan welcomes politicians, government leaders and international newsmakers to a roundtable discussion of current events with CBS News correspondents.</desc>
-    <date>1954</date>
-    <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p184331_i_h8_aa.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222060000 +0000" stop="20251222070000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Roundup</title>
-    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Roundup</title>
-    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222080000 +0000" stop="20251222090000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Roundup</title>
-    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222090000 +0000" stop="20251222100000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Roundup</title>
-    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222100000 +0000" stop="20251222103000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222110000 +0000" stop="20251222113000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222113000 +0000" stop="20251222120000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222120000 +0000" stop="20251222123000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222123000 +0000" stop="20251222130000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222130000 +0000" stop="20251222140000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS Mornings</title>
-    <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bd4/poster16_9_1766347556756.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Live Reporting</title>
-    <desc lang="en">Live news and top stories on CBS News.</desc>
-    <date>2023</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/6741f50fc394bf0013d04eb7/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Latest Headlines</title>
-    <desc lang="en">The latest headlines and top stories from CBS News.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bf5/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222160000 +0000" stop="20251222170000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Latest Headlines</title>
-    <desc lang="en">The latest headlines and top stories from CBS News.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bf5/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222180000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Latest Headlines</title>
-    <desc lang="en">The latest headlines and top stories from CBS News.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bf5/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222180000 +0000" stop="20251222190000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News 24/7</title>
-    <desc lang="en">Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a2055c/poster16_9_1760036769727.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222190000 +0000" stop="20251222200000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News 24/7</title>
-    <desc lang="en">Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a2055c/poster16_9_1760036769727.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News 24/7</title>
-    <desc lang="en">Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a2055c/poster16_9_1760036769727.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222210000 +0000" stop="20251222220000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Live Reporting</title>
-    <desc lang="en">Live news and top stories on CBS News.</desc>
-    <date>2023</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/6741f50fc394bf0013d04eb7/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Latest Headlines</title>
-    <desc lang="en">The latest headlines and top stories from CBS News.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bf5/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="plex.tv.CBS.News.plex">
-    <title lang="en">CBS News Latest Headlines</title>
-    <desc lang="en">The latest headlines and top stories from CBS News.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bf5/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
   <programme start="20251223000000 +0000" stop="20251223010000 +0000" channel="plex.tv.CBS.News.plex">
     <title lang="en">48 Hours</title>
     <desc lang="en">This newsmagazine investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including multiple Emmy, Peabody and Edward R. Murrow Awards.</desc>
@@ -363,7 +55,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -374,7 +66,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -396,7 +88,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -407,7 +99,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -462,7 +154,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -473,7 +165,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -484,7 +176,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -495,7 +187,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -506,7 +198,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -517,7 +209,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -528,7 +220,7 @@
     <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bd4/poster16_9_1766347556756.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436f6e87eac0013a23bd4/poster16_9_1766422815567.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -682,7 +374,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -693,7 +385,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -715,7 +407,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -726,7 +418,7 @@
     <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766347561829.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -781,7 +473,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -792,7 +484,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -803,7 +495,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -814,7 +506,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -825,7 +517,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -836,7 +528,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766347210199.jpg?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -847,7 +539,7 @@
     <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p20589677_i_h10_ai.jpg?w=1560?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/6786b445fdf9ffc1217171f1/poster16_9_1766422811402.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -858,7 +550,7 @@
     <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="https://plut.tmsimg.com/assets/p20589677_i_h10_ai.jpg?w=1560?fm=jpg" />
+    <icon src="https://images.pluto.tv/episodes/6786b445fdf9ffc1217171f1/poster16_9_1766422811402.jpg?fm=jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>Not Rated</value>
@@ -974,449 +666,323 @@
       <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222000000 +0000" stop="20251222010000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Trinity United Church of Christ</title>
-    <desc lang="en">Trinity UCC is part of the tradition of the United Church of Christ denomination and its emphasis on social justice.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dadd43e4813405c1fe3f991ed1a319ec.jpg" />
-    <episode-num system="onscreen">S1 E97</episode-num>
+  <programme start="20251225000000 +0000" stop="20251225010000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">This newsmagazine investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including multiple Emmy, Peabody and Edward R. Murrow Awards.</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p200944_b_h8_at.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222010000 +0000" stop="20251222030000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Gospel Superfest Holiday 25</title>
-    <desc lang="en">Vivica A. Fox hosts a star-studded inspirational show.</desc>
-    <date>2025</date>
-    <episode-num system="onscreen">S2025</episode-num>
+  <programme start="20251225010000 +0000" stop="20251225020000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">This newsmagazine investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including multiple Emmy, Peabody and Edward R. Murrow Awards.</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p200944_b_h8_at.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222030000 +0000" stop="20251222033000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Believer's Walk of Faith</title>
-    <desc lang="en">Dr. Bill Winston of Living Word Christian Centre shows people how to go deeper into their faith journey; his ministry is a solution-seeking outreach that embraces the Bible as the basis of existence.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c838f08ad82dd9d326ec4d9221b34f89.jpg" />
-    <episode-num system="onscreen">S1 E97</episode-num>
+  <programme start="20251225020000 +0000" stop="20251225030000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">This newsmagazine investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including multiple Emmy, Peabody and Edward R. Murrow Awards.</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p200944_b_h8_at.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222033000 +0000" stop="20251222040000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Believer's Walk of Faith</title>
-    <desc lang="en">Dr. Bill Winston of Living Word Christian Centre shows people how to go deeper into their faith journey; his ministry is a solution-seeking outreach that embraces the Bible as the basis of existence.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c838f08ad82dd9d326ec4d9221b34f89.jpg" />
-    <episode-num system="onscreen">S1 E98</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222040000 +0000" stop="20251222050000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Community of Faith</title>
-    <desc lang="en">The Community of Faith church is a vibrant body of believers, inspired to win more souls to Christ, impact more lives, and by faith do greater works for the glory of God.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aea4646147fe32b04ec5d69cb431f1a9.jpg" />
-    <episode-num system="onscreen">S1 E96</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222050000 +0000" stop="20251222060000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Trinity United Church of Christ</title>
-    <desc lang="en">Trinity UCC is part of the tradition of the United Church of Christ denomination and its emphasis on social justice.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/dadd43e4813405c1fe3f991ed1a319ec.jpg" />
-    <episode-num system="onscreen">S1 E97</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222060000 +0000" stop="20251222070000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Live From New Birth With Dr. Jamal Bryant</title>
-    <desc lang="en">A spirit-filled experience with Dr. Jamal Bryant and getting closer to Christ.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cd5c22945c2edc2ed95bcdd9b6310f7d.jpg" />
-    <episode-num system="onscreen">S1 E84</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222070000 +0000" stop="20251222073000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Believer's Walk of Faith</title>
-    <desc lang="en">Dr. Bill Winston of Living Word Christian Centre shows people how to go deeper into their faith journey; his ministry is a solution-seeking outreach that embraces the Bible as the basis of existence.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c838f08ad82dd9d326ec4d9221b34f89.jpg" />
-    <episode-num system="onscreen">S1 E97</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222073000 +0000" stop="20251222080000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Believer's Walk of Faith</title>
-    <desc lang="en">Dr. Bill Winston of Living Word Christian Centre shows people how to go deeper into their faith journey; his ministry is a solution-seeking outreach that embraces the Bible as the basis of existence.</desc>
-    <date>2025</date>
-    <category lang="en">Religious</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c838f08ad82dd9d326ec4d9221b34f89.jpg" />
-    <episode-num system="onscreen">S1 E98</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222080000 +0000" stop="20251222090000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
+  <programme start="20251225030000 +0000" stop="20251225033000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
     <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E67</episode-num>
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222090000 +0000" stop="20251222093000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">FOX SOUL Faceoff</title>
-    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+  <programme start="20251225033000 +0000" stop="20251225040000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E43</episode-num>
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222093000 +0000" stop="20251222100000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">FOX SOUL Faceoff</title>
-    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+  <programme start="20251225040000 +0000" stop="20251225050000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">48 Hours</title>
+    <desc lang="en">This newsmagazine investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including multiple Emmy, Peabody and Edward R. Murrow Awards.</desc>
+    <date>1988</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p200944_b_h8_at.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225050000 +0000" stop="20251225053000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E42</episode-num>
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222100000 +0000" stop="20251222103000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">FOX SOUL Faceoff</title>
-    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+  <programme start="20251225053000 +0000" stop="20251225060000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Evening News</title>
+    <desc lang="en">The CBS Evening News team shares the day's stories, delivering context and depth to bring greater understanding to the world.</desc>
     <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E41</episode-num>
+    <icon src="https://images.pluto.tv/episodes/678dc7d52175280013e876f3/poster16_9_1766422811804.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222103000 +0000" stop="20251222110000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">FOX SOUL Faceoff</title>
-    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E40</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222110000 +0000" stop="20251222113000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S4 E69</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222113000 +0000" stop="20251222120000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <sub-title lang="en">Boss Lady: Karlie Redd</sub-title>
-    <desc lang="en">Portia sits down with Karlie Redd of "Love &amp; Hip Hop Atlanta.".</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S4 E25</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222120000 +0000" stop="20251222123000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <sub-title lang="en">Line Dancing with Cupid</sub-title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S4 E71</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222123000 +0000" stop="20251222130000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
+  <programme start="20251225060000 +0000" stop="20251225070000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Roundup</title>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S3 E50</episode-num>
+    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222130000 +0000" stop="20251222133000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E41</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222133000 +0000" stop="20251222140000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E38</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222140000 +0000" stop="20251222143000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E19</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222143000 +0000" stop="20251222150000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E34</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E67</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222160000 +0000" stop="20251222170000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E68</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222170000 +0000" stop="20251222180000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E66</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222180000 +0000" stop="20251222183000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">The Live Video Cheat: Christian Southerland vs. Jeremy Southerland</sub-title>
-    <desc lang="en">Christian is tired of her husband's frequent and public cheating; on top of that, she says, he's a mean drunk who doesn't pay bills, and she's unsure about the future of their marriage.</desc>
+  <programme start="20251225070000 +0000" stop="20251225080000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Roundup</title>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E62</episode-num>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222183000 +0000" stop="20251222190000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">Regretting Standstill Romance: Laprice Joynes vs. Naquan Quattlebaum</sub-title>
-    <desc lang="en">Laprice says Naquan has broken their curfew and even stayed out all night -- and didn't come home til 7 a.m. on one occasion.</desc>
+  <programme start="20251225080000 +0000" stop="20251225090000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Roundup</title>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E57</episode-num>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222190000 +0000" stop="20251222193000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">Stop Talking to Prostitutes: Crista Adkins vs. Justin Adkins</sub-title>
-    <desc lang="en">Crista says she gained weight, and her husband is no longer attracted to her, so he turns to online sex sites and soliciting call girls for sex; he says he has agreed to take a polygraph test to prove his innocence.</desc>
+  <programme start="20251225090000 +0000" stop="20251225100000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Roundup</title>
+    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E52</episode-num>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/670436cbe87eac0013a204b9/poster16_9.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222193000 +0000" stop="20251222200000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">The Vicious Cycle of Deception: Natalie Chavis vs. Michael Chavis</sub-title>
-    <desc lang="en">Natalie says Michael cursed her out in front of their children because she asked him not to drink a beer while she was driving with the kids.</desc>
+  <programme start="20251225100000 +0000" stop="20251225103000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E47</episode-num>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222200000 +0000" stop="20251222210000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
+  <programme start="20251225103000 +0000" stop="20251225110000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2024</date>
     <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E70</episode-num>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222210000 +0000" stop="20251222220000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
+  <programme start="20251225110000 +0000" stop="20251225113000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2024</date>
     <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E69</episode-num>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
+  <programme start="20251225113000 +0000" stop="20251225120000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2024</date>
     <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E68</episode-num>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-14</value>
+      <value>Not Rated</value>
     </rating>
   </programme>
-  <programme start="20251222230000 +0000" stop="20251223000000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
+  <programme start="20251225120000 +0000" stop="20251225123000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2024</date>
     <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E68</episode-num>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225123000 +0000" stop="20251225130000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News Mornings</title>
+    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+    <date>2024</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/670436cce87eac0013a204d9/poster16_9_1766422813256.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225130000 +0000" stop="20251225150000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Mornings</title>
+    <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/6786b445fdf9ffc1217171f1/poster16_9_1766422811402.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225150000 +0000" stop="20251225170000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS Mornings</title>
+    <desc lang="en">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS' morning landscape with their lively and original reporting on international news stories during the weekday program's first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York's Times Square.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/episodes/6786b445fdf9ffc1217171f1/poster16_9_1766422811402.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225170000 +0000" stop="20251225173000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News 24/7: The Yale Whiffenpoofs Holiday Special</title>
+    <desc lang="en">CBS News 24/7 is your trusted source for live National and Local breaking news and in-depth reporting on the issues shaping your world.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/series/6944171bd405d15a959fed27/featuredImage_1766070045830.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225173000 +0000" stop="20251225180000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News 24/7: The Yale Whiffenpoofs Holiday Special</title>
+    <desc lang="en">CBS News 24/7 is your trusted source for live National and Local breaking news and in-depth reporting on the issues shaping your world.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/series/6944171bd405d15a959fed27/featuredImage_1766070045830.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225180000 +0000" stop="20251225183000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News 24/7: The Yale Whiffenpoofs Holiday Special</title>
+    <desc lang="en">CBS News 24/7 is your trusted source for live National and Local breaking news and in-depth reporting on the issues shaping your world.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/series/6944171bd405d15a959fed27/featuredImage_1766070045830.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225183000 +0000" stop="20251225190000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">CBS News 24/7: The Yale Whiffenpoofs Holiday Special</title>
+    <desc lang="en">CBS News 24/7 is your trusted source for live National and Local breaking news and in-depth reporting on the issues shaping your world.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <icon src="https://images.pluto.tv/series/6944171bd405d15a959fed27/featuredImage_1766070045830.jpg?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225190000 +0000" stop="20251225200000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">60 Minutes</title>
+    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
+    <date>1968</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225200000 +0000" stop="20251225210000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">60 Minutes</title>
+    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
+    <date>1968</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225210000 +0000" stop="20251225220000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">60 Minutes</title>
+    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
+    <date>1968</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225220000 +0000" stop="20251225230000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">60 Minutes</title>
+    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
+    <date>1968</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
+    </rating>
+  </programme>
+  <programme start="20251225230000 +0000" stop="20251226000000 +0000" channel="plex.tv.CBS.News.plex">
+    <title lang="en">60 Minutes</title>
+    <desc lang="en">The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
+    <date>1968</date>
+    <category lang="en">News</category>
+    <icon src="https://plut.tmsimg.com/assets/p184224_b_h8_am.jpg?w=1560?fm=jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>Not Rated</value>
     </rating>
   </programme>
   <programme start="20251223000000 +0000" stop="20251223010000 +0000" channel="plex.tv.FOX.SOUL.plex">
@@ -1528,7 +1094,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E44</episode-num>
+    <episode-num system="onscreen">S3 E38</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -1604,7 +1170,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E44</episode-num>
+    <episode-num system="onscreen">S3 E38</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -1872,7 +1438,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E71</episode-num>
+    <episode-num system="onscreen">S8 E66</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -1884,7 +1450,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E70</episode-num>
+    <episode-num system="onscreen">S8 E65</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -1896,7 +1462,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E69</episode-num>
+    <episode-num system="onscreen">S8 E63</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -2023,7 +1589,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E45</episode-num>
+    <episode-num system="onscreen">S3 E44</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -2036,7 +1602,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E44</episode-num>
+    <episode-num system="onscreen">S3 E38</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -2099,7 +1665,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E45</episode-num>
+    <episode-num system="onscreen">S3 E44</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -2112,7 +1678,7 @@
     <category lang="en">Entertainment</category>
     <category lang="en">News</category>
     <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
-    <episode-num system="onscreen">S3 E44</episode-num>
+    <episode-num system="onscreen">S3 E38</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -2367,7 +1933,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E72</episode-num>
+    <episode-num system="onscreen">S8 E67</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -2379,7 +1945,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E71</episode-num>
+    <episode-num system="onscreen">S8 E66</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -2391,7 +1957,7 @@
     <category lang="en">News</category>
     <category lang="en">Entertainment</category>
     <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E70</episode-num>
+    <episode-num system="onscreen">S8 E65</episode-num>
     <rating system="US">
       <value>TV-14</value>
     </rating>
@@ -2581,6 +2147,15 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20251225210000 +0000" stop="20251225230000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Gospel Superfest Holiday 25</title>
+    <desc lang="en">Vivica A. Fox hosts a star-studded inspirational show.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">S2025</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20251225230000 +0000" stop="20251226010000 +0000" channel="plex.tv.FOX.SOUL.plex">
     <title lang="en">A Holiday Change</title>
     <desc lang="en">A single mom's holiday romance strains as her teen son's growing pains clash with her new neighbor courtship.</desc>
@@ -2589,189 +2164,380 @@
     <category lang="en">Romance</category>
     <category lang="en">Movies</category>
   </programme>
-  <programme start="20251222010000 +0000" stop="20251222040000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC Fight Night: Newcastle</title>
-    <desc lang="en">Karl Thompson vs. Rob Boardman, cruiserweight championship; Pic Jardine vs. Tony Shields, middleweight; James Walker vs. Jan Sulecki, heavyweight. From Walker Activity Dome in Newcastle upon Tyne, England.</desc>
+  <programme start="20251226010000 +0000" stop="20251226030000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Gospel Superfest Holiday 25</title>
+    <desc lang="en">Vivica A. Fox hosts a star-studded inspirational show.</desc>
     <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p29073852_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="onscreen">S2025</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20251222040000 +0000" stop="20251222070000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC Fight Night: Albuquerque</title>
-    <desc lang="en">Keith Richardson vs. Bekhzod Usmonov, heavyweight. From Kiva Auditorium in Albuquerque, N.M.</desc>
+  <programme start="20251226030000 +0000" stop="20251226050000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Homestead Entertainment</title>
+    <sub-title lang="en">Throwback Holiday</sub-title>
+    <desc lang="en">Over the holidays, a single mother of a teen son finds their growing pains putting pressure on her new courtship.</desc>
     <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p29360362_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Drama</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bc44b6b22c4a5b69d7c6e51eceed3f24.jpg" />
+    <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20251222070000 +0000" stop="20251222080000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Best Hands</title>
-    <desc lang="en">Best Hands.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222080000 +0000" stop="20251222090000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Best Hands</title>
-    <desc lang="en">Best Hands.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222090000 +0000" stop="20251222100000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Best Hands</title>
-    <desc lang="en">Best Hands.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222100000 +0000" stop="20251222110000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Elite Fight Night.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222110000 +0000" stop="20251222120000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Elite Fight Night.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222120000 +0000" stop="20251222130000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Elite Fight Night</title>
-    <desc lang="en">Elite Fight Night.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222130000 +0000" stop="20251222140000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">The Daily Tip</title>
-    <desc lang="en">Early betting tips with Michael Jenkins and Chelsa Messinger.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222140000 +0000" stop="20251222150000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bet Sweats</title>
-    <desc lang="en">Sharp betting insights with Joe Ostrowski and Sam Panayotovich.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222150000 +0000" stop="20251222160000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Coach and Company</title>
-    <desc lang="en">Daily sports talk with The Coach.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222160000 +0000" stop="20251222180000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Muay Thai For Life 16</title>
-    <desc lang="en">From Stockholm, Sweden.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p31892148_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222180000 +0000" stop="20251222190000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bare Knuckle Fighting Championship</title>
-    <desc lang="en">BKFC 58 features a stacked card from Sofia, Bulgaria.</desc>
+  <programme start="20251226070000 +0000" stop="20251226073000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Sounds of the Season</title>
+    <sub-title lang="en">Higher Dimension Church</sub-title>
+    <desc lang="en">Enjoy the sounds of the season with the Higher Dimension Church Choir.</desc>
     <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p27366561_b_h2_aa.jpg" />
+    <category lang="en">Music</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b4281d83645b979fd08776ce0e829eb1.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20251222190000 +0000" stop="20251222203000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">SlapFight Championship</title>
-    <desc lang="en">The world's top slap fighters compete for the championship.</desc>
+  <programme start="20251226073000 +0000" stop="20251226080000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Sounds of the Season</title>
+    <sub-title lang="en">The Lighthouse Church</sub-title>
+    <desc lang="en">Enjoy the sounds of the season with the Lighthouse Church Choir.</desc>
+    <date>2024</date>
+    <category lang="en">Music</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b4281d83645b979fd08776ce0e829eb1.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251226080000 +0000" stop="20251226090000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">The Isiah Factor Uncensored</title>
+    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
     <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
+    <episode-num system="onscreen">S8 E71</episode-num>
     <rating system="US">
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20251222203000 +0000" stop="20251222220000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">SlapFight Championship</title>
-    <desc lang="en">The world's top slap fighters compete for the championship.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p24837056_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251222220000 +0000" stop="20251222230000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 59</title>
-    <desc lang="en">From Mar. 29, 2024 in Alberquerque, New Mexico.</desc>
+  <programme start="20251226090000 +0000" stop="20251226093000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">FOX SOUL Faceoff</title>
+    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
     <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p31140286_b_h2_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
+    <episode-num system="onscreen">S3 E44</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20251222230000 +0000" stop="20251223030000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 29</title>
-    <desc lang="en">Features Britain Hart vs. Charisa Sigala, plus Kai Stewart vs. Rusty Crowder in bare knuckle boxing action from Great Falls, Mont. From Sept. 10, 2022.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p24616400_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20251226093000 +0000" stop="20251226100000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">FOX SOUL Faceoff</title>
+    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
+    <episode-num system="onscreen">S3 E43</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226100000 +0000" stop="20251226103000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">FOX SOUL Faceoff</title>
+    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
+    <episode-num system="onscreen">S3 E42</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226103000 +0000" stop="20251226110000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">FOX SOUL Faceoff</title>
+    <desc lang="en">A discussion of issues many people are afraid to talk about.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/97abcb6106db687114cb136400eed3e6.jpg" />
+    <episode-num system="onscreen">S3 E41</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226110000 +0000" stop="20251226113000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Portia</title>
+    <sub-title lang="en">Holiday Party: Clapbacks &amp; Cocktails</sub-title>
+    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Community</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <category lang="en">Lifestyle</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
+    <episode-num system="onscreen">S4 E77</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226113000 +0000" stop="20251226120000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Portia</title>
+    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Community</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <category lang="en">Lifestyle</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
+    <episode-num system="onscreen">S3 E174</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226120000 +0000" stop="20251226123000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Portia</title>
+    <sub-title lang="en">The Joy of the Holidays: Part 2</sub-title>
+    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Community</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <category lang="en">Lifestyle</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
+    <episode-num system="onscreen">S4 E74</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226123000 +0000" stop="20251226130000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Portia</title>
+    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Community</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <category lang="en">Lifestyle</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226130000 +0000" stop="20251226133000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Chattin' With Chelsea</title>
+    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226133000 +0000" stop="20251226140000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Chattin' With Chelsea</title>
+    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226140000 +0000" stop="20251226143000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Chattin' With Chelsea</title>
+    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226143000 +0000" stop="20251226150000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Chattin' With Chelsea</title>
+    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226150000 +0000" stop="20251226160000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Side Dish</title>
+    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
+    <episode-num system="onscreen">S2 E71</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Side Dish</title>
+    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
+    <episode-num system="onscreen">S2 E72</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Side Dish</title>
+    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
+    <episode-num system="onscreen">S2 E70</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226180000 +0000" stop="20251226183000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Divorce Court</title>
+    <sub-title lang="en">I'll Find Your Hidden Money: Jasmine Tanner vs. Christopher Tanner</sub-title>
+    <desc lang="en">Jasmine says she went through Christopher's phone and found a bank app she's never seen before: as far as she knows, they don't have an account at that bank.</desc>
+    <date>2024</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
+    <episode-num system="onscreen">S26 E66</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226183000 +0000" stop="20251226190000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Divorce Court</title>
+    <sub-title lang="en">You're Running Out of Time: Carrie Creswell vs. Ivan Creswell</sub-title>
+    <desc lang="en">Carrie says her husband's watch addiction has drained them financially; she says she can no longer trust Ivan and she's in court to serve him divorce papers.</desc>
+    <date>2024</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
+    <episode-num system="onscreen">S26 E61</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226190000 +0000" stop="20251226193000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Divorce Court</title>
+    <sub-title lang="en">Drunken Fall Out: Gino Chiusano vs. "Joanie" Mazzella</sub-title>
+    <desc lang="en">Gino says he can no longer put up with the emotional neglect in his relationship: his fiancée's binge drinking, lack of companionship and infidelity have him ready to call off the engagement.</desc>
+    <date>2024</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
+    <episode-num system="onscreen">S26 E56</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226193000 +0000" stop="20251226200000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Divorce Court</title>
+    <sub-title lang="en">Navigating Failed Romance: Lovee Denson vs. Sheba Denson</sub-title>
+    <desc lang="en">Lovee says she and Sheba are not meeting her sex quota and she questions her wife's commitment to the relationship; Sheba says Lovee isn't financially stable and it's a huge turn off.</desc>
+    <date>2024</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
+    <episode-num system="onscreen">S26 E51</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226200000 +0000" stop="20251226210000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">The Isiah Factor Uncensored</title>
+    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
+    <episode-num system="onscreen">S8 E68</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226210000 +0000" stop="20251226220000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">The Isiah Factor Uncensored</title>
+    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
+    <episode-num system="onscreen">S8 E67</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">The Isiah Factor Uncensored</title>
+    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <category lang="en">Entertainment</category>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
+    <episode-num system="onscreen">S8 E66</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20251226230000 +0000" stop="20251227000000 +0000" channel="plex.tv.FOX.SOUL.plex">
+    <title lang="en">Side Dish</title>
+    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
+    <date>2025</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">News</category>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
+    <episode-num system="onscreen">S2 E72</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
@@ -3034,7 +2800,7 @@
     <desc lang="en">March 24, 2023. Features Reggie Barnett Jr. defending BKFC bantamweight title against Daniel Alvarez, plus Britain Hart vs. Jenny Clausius for BKFC women's strawweight title from Norfolk, Virginia.</desc>
     <date>2024</date>
     <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p26635486_b_h8_aa.jpg" />
+    <icon src="http://www.tmsimg.com/assets/p26635486_i_h8_aa.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
@@ -3139,6 +2905,17 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme start="20251225190000 +0000" stop="20251225203000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">SlapFight</title>
+    <desc lang="en">The world's original slap competition league.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20251225203000 +0000" stop="20251225220000 +0000" channel="plex.tv.Stadium.plex">
     <title lang="en">SlapFight Championship</title>
     <desc lang="en">The world's top slap fighters compete for the championship.</desc>
@@ -3167,6 +2944,171 @@
     <date>2022</date>
     <category lang="en">Sports</category>
     <icon src="http://www.tmsimg.com/assets/p24837056_i_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226010000 +0000" stop="20251226040000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">BKFC Fight Night Edmonton</title>
+    <desc lang="en">From River Cree Resort &amp; Casino in Enoch, Alberta.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p30614140_i_h2_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226040000 +0000" stop="20251226050000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Professional Fighters League</title>
+    <desc lang="en">From Jon M. Huntsman Center in Salt Lake City.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>FSK 18</value>
+    </rating>
+  </programme>
+  <programme start="20251226050000 +0000" stop="20251226060000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Professional Fighters League</title>
+    <desc lang="en">From June 28, 2024 at Sanford Pentagon in Sioux Falls, S.D.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226060000 +0000" stop="20251226100000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">BKFC 80 Hollywood: Perdomo vs. Adams 2</title>
+    <desc lang="en">Leonardo Perdomo vs. Arnold Adams, heavyweight; Yoel Romero vs. Theo Doukas, heavyweight. From Hollywood, Fla.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p30941818_i_h2_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226100000 +0000" stop="20251226110000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Total Combat Presents</title>
+    <desc lang="en">Total Combat Presents.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226110000 +0000" stop="20251226120000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Total Combat Presents</title>
+    <desc lang="en">Total Combat Presents.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226120000 +0000" stop="20251226130000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Combat Zone</title>
+    <desc lang="en">Combat Zone.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p30167494_i_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226130000 +0000" stop="20251226140000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">The Daily Tip</title>
+    <desc lang="en">Early betting tips with Michael Jenkins and Chelsa Messinger.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226140000 +0000" stop="20251226150000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bet Sweats</title>
+    <desc lang="en">Sharp betting insights with Joe Ostrowski and Sam Panayotovich.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226150000 +0000" stop="20251226160000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Coach and Company</title>
+    <desc lang="en">Daily sports talk with The Coach.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226160000 +0000" stop="20251226170000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator MMA</title>
+    <desc lang="en">Bellator Light Heavyweight World Champion Ryan Bader and former UFC Light Heavyweight Champion Lyoto Machida are featured in the main event. From Mohegan Sun Arena in Uncasville, Conn.</desc>
+    <date>2021</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p19598792_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20251226170000 +0000" stop="20251226180000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator MMA</title>
+    <desc lang="en">Douglas Lima defends his welterweight title against unbeaten Yaroslav Amosov. From Mohegan Sun.</desc>
+    <date>2021</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p20068570_e_h2_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226180000 +0000" stop="20251226190000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Bellator MMA</title>
+    <desc lang="en">Tim Johnson and Valentin Moldavsky vie for the interim heavyweight title from Mohegan Sun Casino.</desc>
+    <date>2021</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p20068550_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226190000 +0000" stop="20251226220000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">Extreme Fighting Championship</title>
+    <desc lang="en">Extreme Fighting Championship.</desc>
+    <date>2025</date>
+    <category lang="en">Sports</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20251226220000 +0000" stop="20251226230000 +0000" channel="plex.tv.Stadium.plex">
+    <title lang="en">BKFC 38</title>
+    <desc lang="en">April 21, 2023. Features Dat Nguyen vs. Daniel Straus, plus Jake Bostwick vs. Isaac Doolittle in bare-knuckle boxing action from Delray Beach, Florida.</desc>
+    <date>2024</date>
+    <category lang="en">Sports</category>
+    <icon src="http://www.tmsimg.com/assets/p26833241_i_h8_aa.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
